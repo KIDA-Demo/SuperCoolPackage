@@ -10,3 +10,5 @@ if args.name == None:
   print("hello world!")
 else:
   print("hello {}".format(args.name))
+
+print("Bye!")
